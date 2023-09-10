@@ -17,15 +17,6 @@
 - **CSS:** Custom styles to make the application visually appealing.
 - **Secrets API:** A custom API to generate secrets based on refresh.
 
-## Getting Started
-
-To run the FingerMouth Secrets Generator on your local machine, follow these steps:
-
-1. Clone this repository.
-2. Install the required dependencies using `npm install`.
-3. Start the application with `npm start`.
-
-Make sure you have Node.js installed on your system.
 
 ## Contributing
 
